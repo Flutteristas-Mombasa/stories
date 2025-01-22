@@ -15,7 +15,7 @@ A Flutter-based app that displays a series of story pages in a "story view" form
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stories-app.git
+   git clone https://github.com/Flutteristas-Mombasa/stories.git
    ```
 
 2. Navigate to the project directory:
